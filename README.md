@@ -1,10 +1,5 @@
 
 # Indice
-
- 
-
-[Formulário_Cadastro](#formulario_cadastro)  
-
 [Descrição](#descrição)  
 
 [Introduçao](#introduçao)  
@@ -18,10 +13,8 @@
 [Autores](#autores)  
 
   # calendario
-atividade de programação web
- 
  ![Capa do Projeto](capa_png.jpeg)
- 
+
 ## Descrição
 * Foi uma atividade que executamos em sala de aula com alunos junto com o professor.
 
@@ -43,5 +36,5 @@ atividade de programação web
 * ``GITHUB,GIT``
 
 ## Fontes Consulta
-* [Github](https://github.com/helosilvax/calendario)
+* [Github](https://github.com/helosilvax/calendario) - atividade de programação web
 
