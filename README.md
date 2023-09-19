@@ -37,7 +37,5 @@
 
 * ``GITHUB,GIT``
 
-## Fontes Consulta
-
 ## Autores
 * Heloise Ribeiro da Silva
